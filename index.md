@@ -4,12 +4,12 @@ Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
 _"Of course,_" she whispered. Then, she shouted: "All I need is **a little moxie!**"
 
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
 #### Colombian Symbolism in One Hundred Years of Solitude
 Here's some words about the book _One Hundred Years..._.
@@ -18,7 +18,7 @@ Here's some words about the book _One Hundred Years..._.
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
-####The Latest News from [the BBC](www.bbc.com/news:)
+#### The Latest News from [the BBC](www.bbc.com/news:)
 
 [A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -68,6 +68,7 @@ If you _do_ make a mess, use a towel to clean it up!
 Basically, take the same guidance as above: don't be messy,
 
 but if you are, clean it up!
+
 
 
 
