@@ -14,13 +14,13 @@ _"Of course,_" she whispered. Then, she shouted: "All I need is **a little moxie
 #### Colombian Symbolism in One Hundred Years of Solitude
 Here's some words about the book _One Hundred Years..._.
 
-[Search for it.](www.google.com
+[Search for it.](www.google.com)
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
 ####The Latest News from [the BBC](www.bbc.com/news:)
 
-[A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg
+[A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 I read this interesting quote the other day:
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
@@ -68,6 +68,7 @@ If you _do_ make a mess, use a towel to clean it up!
 Basically, take the same guidance as above: don't be messy,
 
 but if you are, clean it up!
+
 
 
 
