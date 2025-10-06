@@ -1,7 +1,9 @@
 ##<Marika Rautakoski> web-tehtävä
 Writing in Markdown is _not_ that hard!
+
 I **will** complete these lessons!
 _"Of course,_" she whispered. Then, she shouted: "All I need is **a little moxie!**"
+
 #Header one
 ##Header two
 ###Header three
@@ -10,6 +12,7 @@ _"Of course,_" she whispered. Then, she shouted: "All I need is **a little moxie
 ######Header six
 ####Colombian Symbolism in One Hundred Years of Solitude
 Here's some words about the book _One Hundred Years..._.
+
 [Search for it.](www.google.com)
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 ####The Latest News from [the BBC](www.bbc.com/news:)
@@ -58,4 +61,5 @@ If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.
 Basically, take the same guidance as above: don't be messy,
+
 but if you are, clean it up!
